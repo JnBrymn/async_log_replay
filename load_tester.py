@@ -1,9 +1,3 @@
-"""
-TODO
-* collect statistics on responses and present back in the final result
-"""
-# must be run with python3.7
-# $ source activate ipykernel_py37
 import argparse
 import asyncio
 from collections import Counter
